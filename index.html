@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Trafikverket Slot Monitor</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 1800px;
+            margin: 0 auto;
+        }
+        
+        .header {
+            background: #2a2a2a;
+            border-radius: 15px;
+            padding: 25px;
+            margin-bottom: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid #404040;
+        }
+        
+        h1 {
+            color: #e0e0e0;
+            font-size: 2em;
+            margin-bottom: 10px;
+        }
+        
+        .status-bar {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 2px solid #404040;
+            flex-wrap: wrap;
+            gap: 10px;
+            color: #b0b0b0;
+        }
+        
+        .status-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            font-size: 0.95em;
+        }
+        
+        .status-item strong {
+            color: #ffffff;
+        }
+        
+        .status-icon {
+            font-size: 1.2em;
+        }
+        
+        .countdown {
+            color: #888;
+            font-size: 0.9em;
+        }
+        
+        .monitors-grid {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            margin-top: 20px;
+        }
+        
+        .city-monitor {
+            background: #2a2a2a;
+            border-radius: 15px;
+            padding: 20px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+            border: 1px solid #404040;
+            width: 100%;
+        }
+        
+        .city-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 3px solid #505050;
+        }
+        
+        .city-name {
+            font-size: 1.5em;
+            font-weight: bold;
+            color: #e0e0e0;
+        }
+        
+        .city-count {
+            background: #505050;
+            color: #ffffff;
+            padding: 5px 15px;
+            border-radius: 20px;
+            font-weight: bold;
+        }
+        
+        .slots-container {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-top: 15px;
+        }
+        
+        .car-type-section {
+            background: #1f1f1f;
+            border-radius: 10px;
+            padding: 15px;
+            border: 2px solid #404040;
+        }
+        
+        .car-type-header {
+            font-size: 1.2em;
+            font-weight: bold;
+            margin-bottom: 10px;
+            padding: 10px;
+            border-radius: 8px;
+            text-align: center;
+        }
+        
+        .automatic-header {
+            background: #2a3a4a;
+            color: #88c0ff;
+            border: 2px solid #506070;
+        }
+        
+        .manual-header {
+            background: #3a2a4a;
+            color: #c088ff;
+            border: 2px solid #605070;
+        }
+        
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        
+        th {
+            background: linear-gradient(135deg, #404040 0%, #505050 100%);
+            color: #ffffff;
+            padding: 10px 8px;
+            text-align: left;
+            font-weight: 600;
+            font-size: 0.85em;
+            text-transform: uppercase;
+        }
+        
+        th:first-child { border-radius: 8px 0 0 0; }
+        th:last-child { border-radius: 0 8px 0 0; }
+        
+        td {
+            padding: 10px 8px;
+            border-bottom: 1px solid #3a3a3a;
+            color: #c0c0c0;
+            font-size: 0.9em;
+        }
+        
+        tbody tr {
+            background: #1f1f1f;
+        }
+        
+        tr:hover {
+            background-color: #353535 !important;
+        }
+        
+        .slot-number {
+            font-weight: bold;
+            color: #ffffff;
+        }
+        
+        .location-name {
+            font-weight: bold;
+            color: #ffd700;
+            background: rgba(255, 215, 0, 0.15);
+            padding: 4px 8px;
+            border-radius: 8px;
+            display: inline-block;
+        }
+        
+        .priority-row {
+            background-color: #3a2f00 !important;
+            border-left: 4px solid #ff9800;
+        }
+        
+        .priority-row:hover {
+            background-color: #4d3d00 !important;
+        }
+        
+        .status-soon {
+            background: #ff9800;
+            color: #1a1a1a;
+            padding: 4px 12px;
+            border-radius: 15px;
+            font-weight: bold;
+            font-size: 0.85em;
+        }
+        
+        .hidden-row {
+            display: none;
+        }
+        
+        .no-slots {
+            text-align: center;
+            padding: 30px;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .show-more-btn {
+            width: 100%;
+            padding: 12px;
+            margin-top: 10px;
+            background: linear-gradient(135deg, #404040 0%, #505050 100%);
+            color: #ffffff;
+            border: none;
+            border-radius: 10px;
+            font-size: 1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .show-more-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(80, 80, 80, 0.5);
+            background: linear-gradient(135deg, #505050 0%, #606060 100%);
+        }
+        
+        .no-data {
+            text-align: center;
+            padding: 40px;
+            color: #666;
+            font-size: 1.1em;
+        }
+        
+        .error-message {
+            background: #3a1a1a;
+            color: #ff8888;
+            padding: 15px;
+            border-radius: 10px;
+            margin: 10px 0;
+            border-left: 4px solid #ff6b6b;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🚗 Trafikverket Driving Test Slot Monitor</h1>
+            <div class="status-bar">
+                <div class="status-item">
+                    <span class="status-icon">🕐</span>
+                    <span>Last Updated: <strong id="lastUpdate">Loading...</strong></span>
+                </div>
+                <div class="status-item">
+                    <span class="status-icon">📊</span>
+                    <span>Total Slots: <strong id="totalSlots">0</strong></span>
+                </div>
+                <div class="status-item">
+                    <span class="status-icon">⚡</span>
+                    <span>Priority Slots: <strong id="prioritySlots">0</strong></span>
+                </div>
+                <div class="status-item">
+                    <span class="status-icon">🔄</span>
+                    <span>Auto-refresh: <strong>30s</strong> <span class="countdown" id="countdown">(30s)</span></span>
+                </div>
+            </div>
+        </div>
+        
+        <div id="errorContainer"></div>
+        <div id="monitorsGrid" class="monitors-grid"></div>
+    </div>
+
+    <script>
+        const INITIAL_ROWS = 5;
+        const REFRESH_INTERVAL = 30000;
+        const EARLIEST_AVAILABLE_DAYS = 15; // This are the Availability Days, which will be higlighted based on schedules
+        let countdown = 30;
+        let countdownTimer = null;
+        
+        function startCountdown() {
+            countdown = 30;
+            const countdownElement = document.getElementById('countdown');
+            
+            if (countdownTimer) {
+                clearInterval(countdownTimer);
+            }
+            
+            countdownTimer = setInterval(() => {
+                countdown--;
+                if (countdown <= 0) {
+                    countdown = 30;
+                }
+                countdownElement.textContent = `(${countdown}s)`;
+            }, 1000);
+        }
+        
+        function toggleMoreRows(cityId, carType) {
+            const table = document.getElementById(`table-${cityId}-${carType}`);
+            const hiddenRows = table.querySelectorAll(`.hidden-row-${cityId}-${carType}`);
+            const btn = document.getElementById(`btn-${cityId}-${carType}`);
+            
+            const isHidden = hiddenRows[0].style.display === 'none' || hiddenRows[0].style.display === '';
+            
+            hiddenRows.forEach(row => {
+                row.style.display = isHidden ? 'table-row' : 'none';
+            });
+            
+            btn.textContent = isHidden ? '▲ Show Less' : `▼ Show More (${hiddenRows.length})`;
+        }
+        
+        function processSlotData(fileData, carType) {
+            const slots_by_city = {};
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            
+            let priorityCount = 0;
+            let totalSlots = 0;
+            
+            for (const [city, slots] of Object.entries(fileData.slots_data || {})) {
+                if (!slots_by_city[city]) {
+                    slots_by_city[city] = { automatic: [], manual: [] };
+                }
+                
+                for (const slot of slots) {
+                    if (slot.duration && slot.duration.start && slot.duration.end) {
+                        const startStr = slot.duration.start.replace('+02:00', '').replace('+00:00', '').replace('Z', '');
+                        const slotDate = new Date(startStr);
+                        const daysUntil = Math.floor((slotDate - today) / (1000 * 60 * 60 * 24));
+                        
+                        // Format time as HHMM-HHMM
+                        const startTime = slot.duration.start.split('T')[1].split(':');
+                        const endTime = slot.duration.end.split('T')[1].split(':');
+                        const timeRange = `${startTime[0]}${startTime[1]}-${endTime[0]}${endTime[1]}`;
+                        
+                        // Days info
+                        let daysInfo;
+                        if (daysUntil === 0) {
+                            daysInfo = "TODAY!";
+                        } else if (daysUntil === 1) {
+                            daysInfo = "Tomorrow (1 day)";
+                        } else if (daysUntil > 1) {
+                            daysInfo = `${daysUntil} days from today`;
+                        } else {
+                            daysInfo = `${Math.abs(daysUntil)} days ago`;
+                        }
+                        
+                        const isSoon = daysUntil <= EARLIEST_AVAILABLE_DAYS && daysUntil >= 0;
+                        if (isSoon) priorityCount++;
+                        
+                        slots_by_city[city][carType].push({
+                            date: slot.date,
+                            time_range: timeRange,
+                            location: slot.locationName || 'N/A',
+                            days_info: daysInfo,
+                            days_until: daysUntil,
+                            is_soon: isSoon,
+                            sort_key: slotDate.getTime()
+                        });
+                        
+                        totalSlots++;
+                    }
+                }
+            }
+            
+            return { slots_by_city, priorityCount, totalSlots, last_updated: fileData.last_updated };
+        }
+        
+        async function fetchData() {
+            try {
+                // Fetch both JSON files
+                const [autoResponse, manualResponse] = await Promise.all([
+                    fetch('slots_data_automatic.json'),
+                    fetch('slots_data_manual.json')
+                ]);
+                
+                if (!autoResponse.ok && !manualResponse.ok) {
+                    throw new Error('Failed to fetch JSON files');
+                }
+                
+                const autoData = autoResponse.ok ? await autoResponse.json() : { slots_data: {} };
+                const manualData = manualResponse.ok ? await manualResponse.json() : { slots_data: {} };
+                
+                // Process data
+                const autoProcessed = processSlotData(autoData, 'automatic');
+                const manualProcessed = processSlotData(manualData, 'manual');
+                
+                // Merge data
+                const mergedSlots = {};
+                const allCities = new Set([
+                    ...Object.keys(autoProcessed.slots_by_city),
+                    ...Object.keys(manualProcessed.slots_by_city)
+                ]);
+                
+                for (const city of allCities) {
+                    mergedSlots[city] = {
+                        automatic: autoProcessed.slots_by_city[city]?.automatic || [],
+                        manual: manualProcessed.slots_by_city[city]?.manual || []
+                    };
+                    
+                    // Sort and number slots
+                    for (const carType of ['automatic', 'manual']) {
+                        mergedSlots[city][carType].sort((a, b) => a.sort_key - b.sort_key);
+                        mergedSlots[city][carType].forEach((slot, idx) => {
+                            delete slot.sort_key;
+                            slot.slot_number = idx + 1;
+                        });
+                    }
+                }
+                
+                const data = {
+                    last_updated: autoData.last_updated || manualData.last_updated || 'Unknown',
+                    slots_data: mergedSlots,
+                    total_slots: autoProcessed.totalSlots + manualProcessed.totalSlots,
+                    priority_count: autoProcessed.priorityCount + manualProcessed.priorityCount,
+                    earliest_available_days: EARLIEST_AVAILABLE_DAYS
+                };
+                
+                updateDisplay(data);
+                startCountdown();
+                
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                document.getElementById('errorContainer').innerHTML = 
+                    `<div class="error-message">⚠️ Failed to load JSON files. Make sure slots_data_automatic.json and slots_data_manual.json are in the same directory.</div>`;
+            }
+        }
+        
+        function updateDisplay(data) {
+            const grid = document.getElementById('monitorsGrid');
+            const errorContainer = document.getElementById('errorContainer');
+            
+            document.getElementById('lastUpdate').textContent = data.last_updated || 'Never';
+            document.getElementById('totalSlots').textContent = data.total_slots || 0;
+            document.getElementById('prioritySlots').textContent = data.priority_count || 0;
+            
+            if (!data.slots_data || Object.keys(data.slots_data).length === 0) {
+                grid.innerHTML = '<div class="no-data">📭 No slots found. Waiting for data...</div>';
+                return;
+            }
+            
+            let html = '';
+            for (const [city, carTypes] of Object.entries(data.slots_data)) {
+                const cityId = city.replace(/[^a-zA-Z0-9]/g, '_');
+                const automaticSlots = carTypes.automatic || [];
+                const manualSlots = carTypes.manual || [];
+                const totalCitySlots = automaticSlots.length + manualSlots.length;
+                
+                html += `
+                    <div class="city-monitor">
+                        <div class="city-header">
+                            <div class="city-name">📍 ${city}</div>
+                            <div class="city-count">${totalCitySlots} slots (${automaticSlots.length}A + ${manualSlots.length}M)</div>
+                        </div>
+                        <div class="slots-container">
+                            ${buildCarTypeSection(cityId, 'automatic', automaticSlots, 'AUTOMATIC 🚗', 'automatic-header')}
+                            ${buildCarTypeSection(cityId, 'manual', manualSlots, 'MANUAL ⚙️', 'manual-header')}
+                        </div>
+                    </div>
+                `;
+            }
+            
+            grid.innerHTML = html;
+        }
+        
+        function buildCarTypeSection(cityId, carType, slots, title, headerClass) {
+            let html = `
+                <div class="car-type-section">
+                    <div class="car-type-header ${headerClass}">${title}</div>
+            `;
+            
+            if (slots.length === 0) {
+                html += '<div class="no-slots">No slots available</div>';
+            } else {
+                const hasMore = slots.length > INITIAL_ROWS;
+                
+                html += `
+                    <table id="table-${cityId}-${carType}">
+                        <thead>
+                            <tr>
+                                <th>#</th>
+                                <th>Date</th>
+                                <th>Time</th>
+                                <th>Days</th>
+                                <th>Status</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                `;
+                
+                slots.forEach((slot, index) => {
+                    const isHidden = index >= INITIAL_ROWS;
+                    const rowClass = slot.is_soon ? 'priority-row' : '';
+                    const hiddenClass = isHidden ? `hidden-row hidden-row-${cityId}-${carType}` : '';
+                    const displayStyle = isHidden ? 'display: none;' : '';
+                    
+                    html += `
+                        <tr class="${rowClass} ${hiddenClass}" style="${displayStyle}">
+                            <td class="slot-number">${slot.slot_number}</td>
+                            <td>${slot.date}</td>
+                            <td>${slot.time_range}</td>
+                            <td>${slot.days_info}</td>
+                            <td>${slot.is_soon ? '<span class="status-soon">⚡ SOON</span>' : ''}</td>
+                        </tr>
+                    `;
+                });
+                
+                html += `
+                        </tbody>
+                    </table>
+                `;
+                
+                if (hasMore) {
+                    html += `
+                        <button class="show-more-btn" id="btn-${cityId}-${carType}" onclick="toggleMoreRows('${cityId}', '${carType}')">
+                            ▼ Show More (${slots.length - INITIAL_ROWS})
+                        </button>
+                    `;
+                }
+            }
+            
+            html += '</div>';
+            return html;
+        }
+        
+        // Initial load
+        fetchData();
+        
+        // Refresh every 30 seconds
+        setInterval(fetchData, REFRESH_INTERVAL);
+    </script>
+</body>
+</html>
