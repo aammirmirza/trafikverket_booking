@@ -1,0 +1,14 @@
+# Sensitive files
+trafikverket_session.json    # Contains auth cookies - KEEP PRIVATE
+.env                          # Environment variables with secrets
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*_Backup.py
