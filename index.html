@@ -285,8 +285,9 @@
     </div>
 
     <script>
-        const INITIAL_ROWS = 5; // Show top 5 rows initially
-        const REFRESH_INTERVAL = 30000; // 30 seconds
+        const INITIAL_ROWS = 5;
+        const REFRESH_INTERVAL = 30000;
+        const EARLIEST_AVAILABLE_DAYS = 51; // Must match your Python script setting
         let countdown = 30;
         let countdownTimer = null;
         
@@ -321,34 +322,136 @@
             btn.textContent = isHidden ? '▲ Show Less' : `▼ Show More (${hiddenRows.length})`;
         }
         
+        function processSlotData(fileData, carType) {
+            const slots_by_city = {};
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            
+            let priorityCount = 0;
+            let totalSlots = 0;
+            
+            for (const [city, slots] of Object.entries(fileData.slots_data || {})) {
+                if (!slots_by_city[city]) {
+                    slots_by_city[city] = { automatic: [], manual: [] };
+                }
+                
+                for (const slot of slots) {
+                    if (slot.duration && slot.duration.start && slot.duration.end) {
+                        const startStr = slot.duration.start.replace('+02:00', '').replace('+00:00', '').replace('Z', '');
+                        const slotDate = new Date(startStr);
+                        const daysUntil = Math.floor((slotDate - today) / (1000 * 60 * 60 * 24));
+                        
+                        // Format time as HHMM-HHMM
+                        const startTime = slot.duration.start.split('T')[1].split(':');
+                        const endTime = slot.duration.end.split('T')[1].split(':');
+                        const timeRange = `${startTime[0]}${startTime[1]}-${endTime[0]}${endTime[1]}`;
+                        
+                        // Days info
+                        let daysInfo;
+                        if (daysUntil === 0) {
+                            daysInfo = "TODAY!";
+                        } else if (daysUntil === 1) {
+                            daysInfo = "Tomorrow (1 day)";
+                        } else if (daysUntil > 1) {
+                            daysInfo = `${daysUntil} days from today`;
+                        } else {
+                            daysInfo = `${Math.abs(daysUntil)} days ago`;
+                        }
+                        
+                        const isSoon = daysUntil <= EARLIEST_AVAILABLE_DAYS && daysUntil >= 0;
+                        if (isSoon) priorityCount++;
+                        
+                        slots_by_city[city][carType].push({
+                            date: slot.date,
+                            time_range: timeRange,
+                            location: slot.locationName || 'N/A',
+                            days_info: daysInfo,
+                            days_until: daysUntil,
+                            is_soon: isSoon,
+                            sort_key: slotDate.getTime()
+                        });
+                        
+                        totalSlots++;
+                    }
+                }
+            }
+            
+            return { slots_by_city, priorityCount, totalSlots, last_updated: fileData.last_updated };
+        }
+        
+        async function fetchData() {
+            try {
+                // Fetch both JSON files
+                const [autoResponse, manualResponse] = await Promise.all([
+                    fetch('slots_data_automatic.json'),
+                    fetch('slots_data_manual.json')
+                ]);
+                
+                if (!autoResponse.ok && !manualResponse.ok) {
+                    throw new Error('Failed to fetch JSON files');
+                }
+                
+                const autoData = autoResponse.ok ? await autoResponse.json() : { slots_data: {} };
+                const manualData = manualResponse.ok ? await manualResponse.json() : { slots_data: {} };
+                
+                // Process data
+                const autoProcessed = processSlotData(autoData, 'automatic');
+                const manualProcessed = processSlotData(manualData, 'manual');
+                
+                // Merge data
+                const mergedSlots = {};
+                const allCities = new Set([
+                    ...Object.keys(autoProcessed.slots_by_city),
+                    ...Object.keys(manualProcessed.slots_by_city)
+                ]);
+                
+                for (const city of allCities) {
+                    mergedSlots[city] = {
+                        automatic: autoProcessed.slots_by_city[city]?.automatic || [],
+                        manual: manualProcessed.slots_by_city[city]?.manual || []
+                    };
+                    
+                    // Sort and number slots
+                    for (const carType of ['automatic', 'manual']) {
+                        mergedSlots[city][carType].sort((a, b) => a.sort_key - b.sort_key);
+                        mergedSlots[city][carType].forEach((slot, idx) => {
+                            delete slot.sort_key;
+                            slot.slot_number = idx + 1;
+                        });
+                    }
+                }
+                
+                const data = {
+                    last_updated: autoData.last_updated || manualData.last_updated || 'Unknown',
+                    slots_data: mergedSlots,
+                    total_slots: autoProcessed.totalSlots + manualProcessed.totalSlots,
+                    priority_count: autoProcessed.priorityCount + manualProcessed.priorityCount,
+                    earliest_available_days: EARLIEST_AVAILABLE_DAYS
+                };
+                
+                updateDisplay(data);
+                startCountdown();
+                
+            } catch (error) {
+                console.error('Error fetching data:', error);
+                document.getElementById('errorContainer').innerHTML = 
+                    `<div class="error-message">⚠️ Failed to load JSON files. Make sure slots_data_automatic.json and slots_data_manual.json are in the same directory.</div>`;
+            }
+        }
+        
         function updateDisplay(data) {
             const grid = document.getElementById('monitorsGrid');
             const errorContainer = document.getElementById('errorContainer');
             
-            // Update header stats
             document.getElementById('lastUpdate').textContent = data.last_updated || 'Never';
             document.getElementById('totalSlots').textContent = data.total_slots || 0;
+            document.getElementById('prioritySlots').textContent = data.priority_count || 0;
             
-            // Use priority_count from backend if available, otherwise calculate
-            const priorityCount = data.priority_count !== undefined ? data.priority_count : 0;
-            document.getElementById('prioritySlots').textContent = priorityCount;
-            
-            // Handle errors
-            if (data.error) {
-                errorContainer.innerHTML = `<div class="error-message">⚠️ ${data.error}</div>`;
-                grid.innerHTML = '<div class="no-data">No slot data available</div>';
-                return;
-            } else {
-                errorContainer.innerHTML = '';
-            }
-            
-            // Check if we have data
             if (!data.slots_data || Object.keys(data.slots_data).length === 0) {
                 grid.innerHTML = '<div class="no-data">📭 No slots found. Waiting for data...</div>';
                 return;
             }
             
-            // Build monitors for each city
             let html = '';
             for (const [city, carTypes] of Object.entries(data.slots_data)) {
                 const cityId = city.replace(/[^a-zA-Z0-9]/g, '_');
@@ -363,15 +466,8 @@
                             <div class="city-count">${totalCitySlots} slots (${automaticSlots.length}A + ${manualSlots.length}M)</div>
                         </div>
                         <div class="slots-container">
-                `;
-                
-                // Automatic slots column
-                html += buildCarTypeSection(cityId, 'automatic', automaticSlots, 'AUTOMATIC 🚗', 'automatic-header');
-                
-                // Manual slots column
-                html += buildCarTypeSection(cityId, 'manual', manualSlots, 'MANUAL ⚙️', 'manual-header');
-                
-                html += `
+                            ${buildCarTypeSection(cityId, 'automatic', automaticSlots, 'AUTOMATIC 🚗', 'automatic-header')}
+                            ${buildCarTypeSection(cityId, 'manual', manualSlots, 'MANUAL ⚙️', 'manual-header')}
                         </div>
                     </div>
                 `;
@@ -438,20 +534,6 @@
             
             html += '</div>';
             return html;
-        }
-        
-        function fetchData() {
-            fetch('/api/slots')
-                .then(response => response.json())
-                .then(data => {
-                    updateDisplay(data);
-                    startCountdown();
-                })
-                .catch(error => {
-                    console.error('Error fetching data:', error);
-                    document.getElementById('errorContainer').innerHTML = 
-                        '<div class="error-message">⚠️ Failed to fetch data from server</div>';
-                });
         }
         
         // Initial load
