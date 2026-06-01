@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-01 11:44:20",
+  "last_updated": "2026-06-01 11:48:59",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -20109,62 +20109,6 @@
       }
     ],
     "Karlskrona": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-06-05T13:00:00+02:00",
-          "end": "2026-06-05T13:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000047,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-06-05",
-        "time": "13:00",
-        "locationName": "Karlskrona",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": false,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-06-12T15:30:00+02:00",
-          "end": "2026-06-12T16:15:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000047,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-06-12",
-        "time": "15:30",
-        "locationName": "Karlskrona",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": false,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
