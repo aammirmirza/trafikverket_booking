@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 09:24:13",
+  "last_updated": "2026-06-04 09:28:36",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -664,34 +664,6 @@
         "properties": null,
         "date": "2026-08-05",
         "time": "08:15",
-        "locationName": "Malmö",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-05T09:00:00+02:00",
-          "end": "2026-08-05T09:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000061,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-05",
-        "time": "09:00",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
@@ -6544,34 +6516,6 @@
         "properties": null,
         "date": "2026-08-14",
         "time": "08:15",
-        "locationName": "Malmö",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-14T09:00:00+02:00",
-          "end": "2026-08-14T09:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000061,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-14",
-        "time": "09:00",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
@@ -23725,34 +23669,6 @@
       }
     ],
     "Kristiansand": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-03T08:15:00+02:00",
-          "end": "2026-08-03T09:00:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000046,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-03",
-        "time": "08:15",
-        "locationName": "Kristianstad",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
