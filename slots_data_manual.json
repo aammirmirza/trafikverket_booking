@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 11:36:40",
+  "last_updated": "2026-06-04 11:41:07",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -19105,8 +19105,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-07-10T10:00:00+02:00",
-          "end": "2026-07-10T10:45:00+02:00"
+          "start": "2026-07-10T09:00:00+02:00",
+          "end": "2026-07-10T09:45:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000047,
@@ -19117,7 +19117,7 @@
         "name": "Körprov B",
         "properties": null,
         "date": "2026-07-10",
-        "time": "10:00",
+        "time": "09:00",
         "locationName": "Karlskrona",
         "cost": "1 800 kr",
         "costText": " (med bil)",
@@ -22831,8 +22831,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-06T14:40:00+02:00",
-          "end": "2026-08-06T15:25:00+02:00"
+          "start": "2026-06-04T13:40:00+02:00",
+          "end": "2026-06-04T14:25:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000064,
@@ -22842,15 +22842,15 @@
         "tachographTypeId": 1,
         "name": "Körprov B",
         "properties": null,
-        "date": "2026-08-06",
-        "time": "14:40",
+        "date": "2026-06-04",
+        "time": "13:40",
         "locationName": "Ystad",
         "cost": "1 800 kr",
         "costText": " (med bil)",
         "increasedFee": false,
         "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
+        "isLateCancellation": true,
+        "isOutsideValidDuration": false,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
         "placeCoordinate": null
