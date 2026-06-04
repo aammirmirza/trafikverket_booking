@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04 06:38:47",
+  "last_updated": "2026-06-04 06:43:09",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -10679,8 +10679,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-07-21T13:45:00+02:00",
-          "end": "2026-07-21T14:30:00+02:00"
+          "start": "2026-07-24T13:00:00+02:00",
+          "end": "2026-07-24T13:45:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000046,
@@ -10690,8 +10690,8 @@
         "tachographTypeId": 1,
         "name": "Körprov B",
         "properties": null,
-        "date": "2026-07-21",
-        "time": "13:45",
+        "date": "2026-07-24",
+        "time": "13:00",
         "locationName": "Kristianstad",
         "cost": "1 800 kr",
         "costText": " (med bil)",
