@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-08 13:57:30",
+  "last_updated": "2026-06-08 14:02:01",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -22301,34 +22301,6 @@
       }
     ],
     "Trelleborg": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-18T11:35:00+02:00",
-          "end": "2026-08-18T12:20:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000063,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-18",
-        "time": "11:35",
-        "locationName": "Trelleborg",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
