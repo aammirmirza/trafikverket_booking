@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 20:49:49",
+  "last_updated": "2026-06-12 20:57:01",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -29,8 +29,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -58,8 +57,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -87,8 +85,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -116,8 +113,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -145,8 +141,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -174,8 +169,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -203,8 +197,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -232,8 +225,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -261,8 +253,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -290,8 +281,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -319,8 +309,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -348,8 +337,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -377,8 +365,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -406,8 +393,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -435,8 +421,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -464,8 +449,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -493,8 +477,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -522,8 +505,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -551,8 +533,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -580,8 +561,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -609,8 +589,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -638,8 +617,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -667,8 +645,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -696,8 +673,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -725,8 +701,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -754,8 +729,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -783,8 +757,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -812,8 +785,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -841,8 +813,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -870,8 +841,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -899,8 +869,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -928,8 +897,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -957,8 +925,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -986,8 +953,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1015,8 +981,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1044,8 +1009,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1073,8 +1037,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1102,8 +1065,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1131,8 +1093,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1160,8 +1121,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1189,8 +1149,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1218,8 +1177,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1247,8 +1205,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1276,8 +1233,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1305,8 +1261,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1334,8 +1289,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1363,8 +1317,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1392,8 +1345,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1421,8 +1373,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1450,8 +1401,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1479,8 +1429,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1508,8 +1457,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1537,8 +1485,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1566,8 +1513,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1595,8 +1541,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1624,8 +1569,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1653,8 +1597,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1682,8 +1625,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1711,8 +1653,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1740,8 +1681,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1769,8 +1709,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1798,8 +1737,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1827,8 +1765,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1856,8 +1793,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1885,8 +1821,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1914,8 +1849,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1943,8 +1877,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -1972,8 +1905,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2001,8 +1933,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2030,8 +1961,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2059,8 +1989,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2088,8 +2017,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2117,8 +2045,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2146,8 +2073,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2175,8 +2101,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2204,8 +2129,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2233,8 +2157,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2262,8 +2185,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2291,8 +2213,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2320,8 +2241,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2349,8 +2269,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2378,8 +2297,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2407,8 +2325,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2436,8 +2353,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2465,8 +2381,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2494,8 +2409,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2523,8 +2437,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2552,8 +2465,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2581,8 +2493,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2610,8 +2521,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2639,8 +2549,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2668,8 +2577,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2697,8 +2605,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2726,8 +2633,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2755,8 +2661,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2784,8 +2689,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2813,8 +2717,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2842,8 +2745,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2871,8 +2773,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2900,8 +2801,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2929,8 +2829,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2958,8 +2857,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -2987,8 +2885,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3016,8 +2913,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3045,8 +2941,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3074,8 +2969,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3103,8 +2997,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3132,8 +3025,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3161,8 +3053,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3190,8 +3081,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3219,8 +3109,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3248,8 +3137,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3277,8 +3165,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3306,8 +3193,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3335,8 +3221,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3364,8 +3249,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3393,8 +3277,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3422,8 +3305,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3451,8 +3333,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3480,8 +3361,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3509,8 +3389,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3538,8 +3417,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3567,8 +3445,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3596,8 +3473,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3625,8 +3501,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3654,8 +3529,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3683,8 +3557,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3712,8 +3585,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3741,8 +3613,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3770,8 +3641,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3799,8 +3669,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3828,8 +3697,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3857,8 +3725,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3886,8 +3753,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3915,8 +3781,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3944,8 +3809,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -3973,8 +3837,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4002,8 +3865,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4031,8 +3893,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4060,8 +3921,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4089,8 +3949,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4118,8 +3977,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4147,8 +4005,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4176,8 +4033,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4205,8 +4061,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4234,8 +4089,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4263,8 +4117,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4292,8 +4145,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4321,8 +4173,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4350,8 +4201,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4379,8 +4229,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4408,8 +4257,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4437,8 +4285,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4466,8 +4313,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4495,8 +4341,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4524,8 +4369,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4553,8 +4397,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4582,8 +4425,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4611,8 +4453,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4640,8 +4481,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4669,8 +4509,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4698,8 +4537,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4727,8 +4565,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4756,8 +4593,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4785,8 +4621,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4814,8 +4649,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4843,8 +4677,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4872,8 +4705,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4901,8 +4733,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4930,8 +4761,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4959,8 +4789,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -4988,8 +4817,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5017,8 +4845,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5046,8 +4873,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5075,8 +4901,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5104,8 +4929,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5133,8 +4957,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5162,8 +4985,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5191,8 +5013,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5220,8 +5041,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5249,8 +5069,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5278,8 +5097,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5307,8 +5125,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5336,8 +5153,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5365,8 +5181,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5394,8 +5209,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5423,8 +5237,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5452,8 +5265,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5481,8 +5293,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5510,8 +5321,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5539,8 +5349,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5568,8 +5377,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5597,8 +5405,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5626,8 +5433,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5655,8 +5461,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5684,8 +5489,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5713,8 +5517,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5742,8 +5545,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5771,8 +5573,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5800,8 +5601,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5829,8 +5629,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5858,8 +5657,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5887,8 +5685,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5916,8 +5713,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5945,8 +5741,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -5974,8 +5769,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6003,8 +5797,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6032,8 +5825,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6061,8 +5853,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6090,8 +5881,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6119,8 +5909,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6148,8 +5937,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6177,8 +5965,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6206,8 +5993,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6235,8 +6021,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6264,8 +6049,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6293,8 +6077,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6322,8 +6105,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6351,8 +6133,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6380,8 +6161,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6409,8 +6189,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6438,8 +6217,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6467,8 +6245,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6496,8 +6273,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6525,8 +6301,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6554,8 +6329,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6583,8 +6357,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6612,8 +6385,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6641,8 +6413,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6670,8 +6441,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6699,8 +6469,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6728,8 +6497,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6757,8 +6525,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6786,8 +6553,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6815,8 +6581,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6844,8 +6609,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6873,8 +6637,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6902,8 +6665,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6931,8 +6693,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6960,8 +6721,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -6989,8 +6749,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7018,8 +6777,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7047,8 +6805,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7076,8 +6833,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7105,8 +6861,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7134,8 +6889,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7163,8 +6917,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7192,8 +6945,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7221,8 +6973,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7250,8 +7001,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7279,8 +7029,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7308,8 +7057,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7337,8 +7085,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7366,8 +7113,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7395,8 +7141,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7424,8 +7169,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7453,8 +7197,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7482,8 +7225,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7511,8 +7253,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7540,8 +7281,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7569,8 +7309,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7598,8 +7337,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7627,8 +7365,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7656,8 +7393,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7685,8 +7421,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7714,8 +7449,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7743,8 +7477,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7772,8 +7505,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7801,8 +7533,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7830,8 +7561,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7859,8 +7589,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7888,8 +7617,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7917,8 +7645,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7946,8 +7673,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -7975,8 +7701,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8004,8 +7729,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8033,8 +7757,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8062,8 +7785,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8091,8 +7813,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8120,8 +7841,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8149,8 +7869,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8178,8 +7897,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8207,8 +7925,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8236,8 +7953,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8265,8 +7981,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8294,8 +8009,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8323,8 +8037,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8352,8 +8065,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8381,8 +8093,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8410,8 +8121,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8439,8 +8149,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8468,8 +8177,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8497,8 +8205,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8526,8 +8233,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8555,8 +8261,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8584,8 +8289,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8613,8 +8317,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8642,8 +8345,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8671,8 +8373,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8700,8 +8401,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8729,8 +8429,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8758,8 +8457,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8787,8 +8485,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8816,8 +8513,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8845,8 +8541,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8874,8 +8569,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8903,8 +8597,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8932,8 +8625,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8961,8 +8653,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -8990,8 +8681,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9019,8 +8709,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9048,8 +8737,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9077,8 +8765,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9106,8 +8793,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9135,8 +8821,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9164,8 +8849,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9193,8 +8877,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9222,8 +8905,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9251,8 +8933,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9280,8 +8961,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9309,8 +8989,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9338,8 +9017,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9367,8 +9045,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9396,8 +9073,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9425,8 +9101,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9454,8 +9129,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9483,8 +9157,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9512,8 +9185,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9541,8 +9213,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9570,8 +9241,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9599,8 +9269,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9628,8 +9297,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9657,8 +9325,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9686,8 +9353,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9715,8 +9381,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9744,8 +9409,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9773,8 +9437,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9802,8 +9465,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9831,8 +9493,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9860,8 +9521,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9889,8 +9549,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9918,8 +9577,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9947,8 +9605,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -9976,8 +9633,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10005,8 +9661,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10034,8 +9689,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10063,8 +9717,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10092,8 +9745,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10121,8 +9773,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10150,8 +9801,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10179,8 +9829,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10208,8 +9857,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10237,8 +9885,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10266,8 +9913,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10295,8 +9941,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10324,8 +9969,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10353,8 +9997,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10382,8 +10025,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10411,8 +10053,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10440,8 +10081,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10469,8 +10109,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10498,8 +10137,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10527,8 +10165,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10556,8 +10193,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10585,8 +10221,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10614,8 +10249,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10643,8 +10277,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10672,8 +10305,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10701,8 +10333,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10730,8 +10361,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10759,8 +10389,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10788,8 +10417,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10817,8 +10445,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10846,8 +10473,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10875,8 +10501,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10904,8 +10529,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10933,8 +10557,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10962,8 +10585,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -10991,8 +10613,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11020,8 +10641,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11049,8 +10669,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11078,8 +10697,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11107,8 +10725,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11136,8 +10753,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11165,8 +10781,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11194,8 +10809,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11223,8 +10837,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11252,8 +10865,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11281,8 +10893,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11310,8 +10921,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11339,8 +10949,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11368,8 +10977,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11397,8 +11005,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11426,8 +11033,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11455,8 +11061,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11484,8 +11089,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11513,8 +11117,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11542,8 +11145,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11571,8 +11173,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11600,8 +11201,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11629,8 +11229,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11658,8 +11257,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11687,8 +11285,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11716,8 +11313,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11745,8 +11341,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11774,8 +11369,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11803,8 +11397,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11832,8 +11425,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11861,8 +11453,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11890,8 +11481,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11919,8 +11509,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11948,8 +11537,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -11977,8 +11565,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12006,8 +11593,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12035,8 +11621,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12064,8 +11649,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12093,8 +11677,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12122,8 +11705,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12151,8 +11733,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12180,8 +11761,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12209,8 +11789,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12238,8 +11817,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12267,8 +11845,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12296,8 +11873,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12325,8 +11901,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12354,8 +11929,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12383,8 +11957,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12412,8 +11985,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12441,8 +12013,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12470,8 +12041,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12499,8 +12069,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12528,8 +12097,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12557,8 +12125,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12586,8 +12153,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12615,8 +12181,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12644,8 +12209,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12673,8 +12237,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12702,8 +12265,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12731,8 +12293,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12760,8 +12321,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12789,8 +12349,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12818,8 +12377,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12847,8 +12405,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12876,8 +12433,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12905,8 +12461,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12934,8 +12489,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12963,8 +12517,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -12992,8 +12545,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13021,8 +12573,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13050,8 +12601,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13079,8 +12629,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13108,8 +12657,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13137,8 +12685,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13166,8 +12713,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13195,8 +12741,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13224,8 +12769,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13253,8 +12797,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13282,8 +12825,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13311,8 +12853,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13340,8 +12881,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13369,8 +12909,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13398,8 +12937,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13427,8 +12965,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13456,8 +12993,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13485,8 +13021,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13514,8 +13049,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13543,8 +13077,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13572,8 +13105,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13601,8 +13133,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13630,8 +13161,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13659,8 +13189,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13688,8 +13217,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13717,8 +13245,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13746,8 +13273,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13775,8 +13301,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13804,8 +13329,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13833,8 +13357,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13862,8 +13385,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13891,8 +13413,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13920,8 +13441,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13949,8 +13469,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -13978,8 +13497,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14007,8 +13525,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14036,8 +13553,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14065,8 +13581,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14094,8 +13609,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14123,8 +13637,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14152,8 +13665,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14181,8 +13693,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14210,8 +13721,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14239,8 +13749,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14268,8 +13777,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14297,8 +13805,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14326,8 +13833,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14355,8 +13861,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14384,8 +13889,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14413,8 +13917,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14442,8 +13945,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14471,8 +13973,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14500,8 +14001,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14529,8 +14029,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14558,8 +14057,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14587,8 +14085,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14616,8 +14113,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14645,8 +14141,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ],
     "Ystad": [
@@ -14676,8 +14171,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14705,8 +14199,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14734,8 +14227,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14763,8 +14255,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14792,8 +14283,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14821,8 +14311,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14850,8 +14339,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14879,8 +14367,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ],
     "Kristiansand": [
@@ -14910,8 +14397,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14939,8 +14425,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14968,8 +14453,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -14997,8 +14481,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15026,8 +14509,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15055,8 +14537,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ],
     "Hässleholm": [
@@ -15086,8 +14567,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15115,8 +14595,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15144,8 +14623,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ],
     "Trelleborg": [
@@ -15175,8 +14653,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15204,8 +14681,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15233,8 +14709,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15262,8 +14737,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15291,8 +14765,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15320,8 +14793,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ],
     "Lund": [
@@ -15351,8 +14823,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15380,8 +14851,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15409,8 +14879,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15438,8 +14907,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15467,8 +14935,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15496,8 +14963,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15525,8 +14991,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15554,8 +15019,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15583,8 +15047,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15612,8 +15075,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15641,8 +15103,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15670,8 +15131,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15699,8 +15159,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15728,8 +15187,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15757,8 +15215,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15786,8 +15243,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15815,8 +15271,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15844,8 +15299,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15873,8 +15327,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15902,8 +15355,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15931,8 +15383,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15960,8 +15411,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -15989,8 +15439,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16018,8 +15467,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16047,8 +15495,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16076,8 +15523,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16105,8 +15551,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16134,8 +15579,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16163,8 +15607,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16192,8 +15635,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16221,8 +15663,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16250,8 +15691,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16279,8 +15719,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16308,8 +15747,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16337,8 +15775,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16366,8 +15803,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16395,8 +15831,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16424,8 +15859,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16453,8 +15887,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16482,8 +15915,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16511,8 +15943,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16540,8 +15971,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16569,8 +15999,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16598,8 +16027,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16627,8 +16055,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16656,8 +16083,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16685,8 +16111,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16714,8 +16139,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16743,8 +16167,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16772,8 +16195,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16801,8 +16223,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16830,8 +16251,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16859,8 +16279,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16888,8 +16307,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16917,8 +16335,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16946,8 +16363,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -16975,8 +16391,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17004,8 +16419,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17033,8 +16447,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17062,8 +16475,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17091,8 +16503,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17120,8 +16531,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17149,8 +16559,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17178,8 +16587,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17207,8 +16615,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17236,8 +16643,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17265,8 +16671,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17294,8 +16699,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17323,8 +16727,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17352,8 +16755,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17381,8 +16783,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17410,8 +16811,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17439,8 +16839,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17468,8 +16867,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17497,8 +16895,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17526,8 +16923,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17555,8 +16951,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17584,8 +16979,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17613,8 +17007,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17642,8 +17035,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17671,8 +17063,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17700,8 +17091,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17729,8 +17119,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17758,8 +17147,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17787,8 +17175,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17816,8 +17203,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17845,8 +17231,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17874,8 +17259,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17903,8 +17287,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17932,8 +17315,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17961,8 +17343,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -17990,8 +17371,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       },
       {
         "examinationId": null,
@@ -18019,8 +17399,7 @@
         "isOutsideValidDuration": true,
         "isUsingTaxiKnowledgeValidDuration": false,
         "placeAddress": null,
-        "placeCoordinate": null,
-        "_bundleId": ""
+        "placeCoordinate": null
       }
     ]
   }
