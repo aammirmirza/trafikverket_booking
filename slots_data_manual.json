@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-12 12:14:32",
+  "last_updated": "2026-06-12 12:17:19",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -14567,34 +14567,6 @@
       }
     ],
     "Kristiansand": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-24T13:45:00+02:00",
-          "end": "2026-08-24T14:30:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000046,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-24",
-        "time": "13:45",
-        "locationName": "Kristianstad",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
