@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-15 13:43:41",
+  "last_updated": "2026-06-15 13:46:10",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -13169,34 +13169,6 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-19T14:15:00+02:00",
-          "end": "2026-08-19T15:00:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000062,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-19",
-        "time": "14:15",
-        "locationName": "Lund",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
           "start": "2026-08-19T15:00:00+02:00",
           "end": "2026-08-19T15:45:00+02:00"
         },
@@ -13770,34 +13742,6 @@
         "properties": null,
         "date": "2026-08-25",
         "time": "13:15",
-        "locationName": "Lund",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-25T14:15:00+02:00",
-          "end": "2026-08-25T15:00:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000062,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-25",
-        "time": "14:15",
         "locationName": "Lund",
         "cost": "1 800 kr",
         "costText": " (med bil)",
