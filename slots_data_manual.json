@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-17 14:54:27",
+  "last_updated": "2026-06-17 14:56:58",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -91,8 +91,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-14T08:15:00+02:00",
-          "end": "2026-08-14T09:00:00+02:00"
+          "start": "2026-08-13T15:30:00+02:00",
+          "end": "2026-08-13T16:15:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000061,
@@ -102,8 +102,8 @@
         "tachographTypeId": 1,
         "name": "Körprov B",
         "properties": null,
-        "date": "2026-08-14",
-        "time": "08:15",
+        "date": "2026-08-13",
+        "time": "15:30",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
@@ -203,8 +203,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-14T09:00:00+02:00",
-          "end": "2026-08-14T09:45:00+02:00"
+          "start": "2026-08-14T08:15:00+02:00",
+          "end": "2026-08-14T09:00:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000061,
@@ -215,7 +215,7 @@
         "name": "Körprov B",
         "properties": null,
         "date": "2026-08-14",
-        "time": "09:00",
+        "time": "08:15",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
