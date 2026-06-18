@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18 12:53:35",
+  "last_updated": "2026-06-18 12:56:03",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -539,8 +539,8 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-17T10:45:00+02:00",
-          "end": "2026-08-17T11:30:00+02:00"
+          "start": "2026-08-17T10:00:00+02:00",
+          "end": "2026-08-17T10:45:00+02:00"
         },
         "examinationTypeId": 12,
         "locationId": 1000061,
@@ -551,7 +551,7 @@
         "name": "Körprov B",
         "properties": null,
         "date": "2026-08-17",
-        "time": "10:45",
+        "time": "10:00",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
