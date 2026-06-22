@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22 14:10:35",
+  "last_updated": "2026-06-22 14:13:16",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -18319,34 +18319,6 @@
       }
     ],
     "Hässleholm": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-09-03T09:00:00+02:00",
-          "end": "2026-09-03T09:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000045,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 4,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-09-03",
-        "time": "09:00",
-        "locationName": "Hässleholm",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
