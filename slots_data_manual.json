@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-22 13:21:46",
+  "last_updated": "2026-06-22 13:24:20",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -608,34 +608,6 @@
         "properties": null,
         "date": "2026-08-18",
         "time": "09:00",
-        "locationName": "Malmö",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-18T10:00:00+02:00",
-          "end": "2026-08-18T10:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000061,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-18",
-        "time": "10:00",
         "locationName": "Malmö",
         "cost": "1 800 kr",
         "costText": " (med bil)",
@@ -7175,6 +7147,34 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
+          "start": "2026-08-26T10:45:00+02:00",
+          "end": "2026-08-26T11:30:00+02:00"
+        },
+        "examinationTypeId": 12,
+        "locationId": 1000061,
+        "occasionChoiceId": 1,
+        "vehicleTypeId": 2,
+        "languageId": 13,
+        "tachographTypeId": 1,
+        "name": "Körprov B",
+        "properties": null,
+        "date": "2026-08-26",
+        "time": "10:45",
+        "locationName": "Malmö",
+        "cost": "1 800 kr",
+        "costText": " (med bil)",
+        "increasedFee": false,
+        "isEducatorBooking": null,
+        "isLateCancellation": false,
+        "isOutsideValidDuration": true,
+        "isUsingTaxiKnowledgeValidDuration": false,
+        "placeAddress": null,
+        "placeCoordinate": null
+      },
+      {
+        "examinationId": null,
+        "examinationCategory": 2,
+        "duration": {
           "start": "2026-08-26T11:30:00+02:00",
           "end": "2026-08-26T12:15:00+02:00"
         },
@@ -8715,34 +8715,6 @@
         "examinationId": null,
         "examinationCategory": 2,
         "duration": {
-          "start": "2026-08-31T10:45:00+02:00",
-          "end": "2026-08-31T11:30:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000061,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-31",
-        "time": "10:45",
-        "locationName": "Malmö",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
           "start": "2026-08-31T11:30:00+02:00",
           "end": "2026-08-31T12:15:00+02:00"
         },
@@ -9273,34 +9245,6 @@
       }
     ],
     "Lund": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-08-27T12:30:00+02:00",
-          "end": "2026-08-27T13:15:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000062,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-08-27",
-        "time": "12:30",
-        "locationName": "Lund",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
