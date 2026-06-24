@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24 23:03:34",
+  "last_updated": "2026-06-24 23:06:06",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -304,6 +304,34 @@
         "cost": "2 200 kr",
         "costText": " (med bil)",
         "increasedFee": true,
+        "isEducatorBooking": null,
+        "isLateCancellation": false,
+        "isOutsideValidDuration": true,
+        "isUsingTaxiKnowledgeValidDuration": false,
+        "placeAddress": null,
+        "placeCoordinate": null
+      },
+      {
+        "examinationId": null,
+        "examinationCategory": 2,
+        "duration": {
+          "start": "2026-08-10T09:00:00+02:00",
+          "end": "2026-08-10T09:45:00+02:00"
+        },
+        "examinationTypeId": 12,
+        "locationId": 1000061,
+        "occasionChoiceId": 1,
+        "vehicleTypeId": 4,
+        "languageId": 13,
+        "tachographTypeId": 1,
+        "name": "Körprov B",
+        "properties": null,
+        "date": "2026-08-10",
+        "time": "09:00",
+        "locationName": "Malmö",
+        "cost": "1 800 kr",
+        "costText": " (med bil)",
+        "increasedFee": false,
         "isEducatorBooking": null,
         "isLateCancellation": false,
         "isOutsideValidDuration": true,
@@ -18823,34 +18851,6 @@
       }
     ],
     "Hässleholm": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-09-09T13:00:00+02:00",
-          "end": "2026-09-09T13:45:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000045,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 4,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-09-09",
-        "time": "13:00",
-        "locationName": "Hässleholm",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": true,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
