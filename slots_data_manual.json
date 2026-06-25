@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-25 10:16:47",
+  "last_updated": "2026-06-25 10:19:21",
   "checking": false,
   "slots_data": {
     "Malmö": [
@@ -10253,34 +10253,6 @@
       }
     ],
     "Lund": [
-      {
-        "examinationId": null,
-        "examinationCategory": 2,
-        "duration": {
-          "start": "2026-09-02T12:30:00+02:00",
-          "end": "2026-09-02T13:15:00+02:00"
-        },
-        "examinationTypeId": 12,
-        "locationId": 1000062,
-        "occasionChoiceId": 1,
-        "vehicleTypeId": 2,
-        "languageId": 13,
-        "tachographTypeId": 1,
-        "name": "Körprov B",
-        "properties": null,
-        "date": "2026-09-02",
-        "time": "12:30",
-        "locationName": "Lund",
-        "cost": "1 800 kr",
-        "costText": " (med bil)",
-        "increasedFee": false,
-        "isEducatorBooking": null,
-        "isLateCancellation": false,
-        "isOutsideValidDuration": false,
-        "isUsingTaxiKnowledgeValidDuration": false,
-        "placeAddress": null,
-        "placeCoordinate": null
-      },
       {
         "examinationId": null,
         "examinationCategory": 2,
